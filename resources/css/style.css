@@ -13,13 +13,14 @@ Orange color: #e67e22;
     box-sizing: border-box;
 }
 
-html {
+html,body {
     background-color: #fff;
     color: #555555;
     font-family: 'Lato', 'Arial', sans-serif; 
     font-size: 20px;
     font-weight: 300;  /*We choose 300(normal font) from the google font*/
     text-rendering: optimizeLegibility;  /* Optimized for ease of reading */
+    overflow-x: hidden; /* Hide the overflow of things from the page*/
 }
 
 .clearfix {zoom : 1}
