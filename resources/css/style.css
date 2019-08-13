@@ -248,17 +248,17 @@ header {
     border-bottom: 2px solid #e67e22;
 }
 /* -------MOBILE NAV ------- */
-/* .mobile-nav-icon {
+.mobile-nav-icon {
     float: right;
     margin-top: 3px;
     cursor: pointer;
     display: none;
 }
 
-.mobile-nav-icon {
+.mobile-nav-icon ion-icon {
     color: #fff;
-    font-size: 100%;
-} */
+    font-size: 200%;
+}
 
 /* ------ STICKY NAV ------ */
 .sticky {
